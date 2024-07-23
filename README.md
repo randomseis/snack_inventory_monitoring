@@ -19,7 +19,7 @@ This project uses a fine-tuned YOLOv5 model to detect the (lack of) Hello Pandas
 Clone repo and install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
 
 ```bash
-git clone https://gitlab.aisingapore.net/aiap/deep-skilling-phase/aiap14/aiap-14-mini-project/aiap-next-research-and-development #clone
+git clone https://github.com/randomseis/snack_inventory_monitoring.git #clone
 cd aiap-next-research-and-development
 pip install -r requirements.txt  # install
 ```
